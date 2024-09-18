@@ -3,8 +3,7 @@
  - [Task Overview](#overview)
  - [Background Information](#background-info)
  - [Task Information](#task-info)
- - [My Result](#my-result)
- - [My Insight](#my-insight)
+ - [My Solution](#solution)
 ## Task Overview <a class = 'anchor' id = 'overview'></a>
 **What I learn**
 - Gain experience in preparing a client report based on data analysis.
@@ -32,3 +31,7 @@ Some key note for a presentation:
 - Content balance
 - Layout and content display
 - Summary / next steps
+
+## My Solution <a class = 'anchor' id = 'solutions'></a>
+
+Download and view my presentation design in Power Point here: 
