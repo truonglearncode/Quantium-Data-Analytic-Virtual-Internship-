@@ -34,4 +34,4 @@ Some key note for a presentation:
 
 ## My Solution <a class = 'anchor' id = 'solutions'></a>
 
-Download and view my presentation design in Power Point here: [Task 3_Design Presentation.pptx]
+Download and view my presentation design in Power Point here: [Task 3_Design Presentation.pptx](https://github.com/truonglearncode/Quantium-Data-Analytic-Virtual-Internship-/blob/main/Task%203_Analytics%20and%20commercial%20application/Task%203_Design%20Presentation.pptx)
