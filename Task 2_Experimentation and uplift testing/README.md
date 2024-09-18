@@ -44,7 +44,7 @@ Once you have selected your control stores, compare each trial and control pair 
 
 ## My Solutions <a class = 'anchor' id = 'solutions'></a>
 
-
+View my solution in python here: [Task 2_Solution.ipynb](https://github.com/truonglearncode/Quantium-Data-Analytic-Virtual-Internship-/blob/main/Task%202_Experimentation%20and%20uplift%20testing/Task%202_Solution.ipynb)
 
 ## Key Finding and Recomendation <a class = 'anchor' id = 'F&R'></a>
 
