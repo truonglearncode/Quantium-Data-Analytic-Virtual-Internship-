@@ -3,8 +3,8 @@
  - [Task Overview](#overview)
  - [Background Information](#background-info)
  - [Task Information](#task-info)
- - [My Result](#my-result)
- - [My Insight](#my-insight)
+ - [My Solutions](#solutions)
+ - [Key Finding and Recomendation](#F&R)
 ## Task Overview <a class = 'anchor' id = 'overview'></a>
 **What I learn**
 - Understand experimentation and uplift testing, comparing trial and control stores.
@@ -41,3 +41,21 @@ This can be broken down by:
 Create a measure to compare different control stores to each of the trial stores to do this write a function to reduce having to re-do the analysis for each trial store. Consider using Pearson correlations or a metric such as a magnitude distance e.g. 1- (Observed distance – minimum distance)/(Maximum distance – minimum distance) as a measure.
 
 Once you have selected your control stores, compare each trial and control pair during the trial period. You want to test if total sales are significantly different in the trial period and if so, check if the driver of change is more purchasing customers or more purchases per customers etc.
+
+## My Solutions <a class = 'anchor' id = 'solutions'></a>
+
+
+
+## Key Finding and Recomendation <a class = 'anchor' id = 'F&R'></a>
+
+*Correlation with trial store: 77, 88, 86*
+
+The store '233' with the highest score is selected as the control store for trial store '77'.
+The store '155' with the highest score is selected as the control store for trial store '86'.
+The store '237' with the highest score is selected as the control store for trial store '88'.
+
+We can see that the distribution of monthly sale and monthly customers of both the stores in the trial period is much different than the distribution of monthly sale and monthly customers in pre-trial period.
+
+The results show that the trial store 77 is significantly different to its control store in the trial period as the trial store performance lies outside the 5% to 95% confidence interval of the control store in two of the three trial months.
+
+We can also see that there is significant increase in sales of chips in trial stores in the trial period.
