@@ -4,6 +4,7 @@
  - [Background Information](#background-info)
  - [Task Information](#task-info)
  - [My Solutions](#solutions)
+ - [Key Finding and Recommendation](#F&R)
 ## Task Overview <a class = 'anchor' id = 'overview'></a>
 **What I'll learn**
 - Understand how to examine and clean transaction and customer data.
@@ -46,3 +47,22 @@ You will also want to derive extra features such as `pack size` and `brand name`
 ## Solutions <a class = 'anchor' id = 'solutions'></a>
 
 View my solution in python here: [Task 1_solution.ipynb](https://github.com/truonglearncode/Quantium-Data-Analytic-Virtual-Internship-/blob/main/Task%201_Data%20preparation%20and%20customer%20analytics/Task%201_Solution.ipynb)
+
+## Key Finding and Recommendation <a class = 'anchor' id = 'F&R'></a>
+
+Across all customer types, `BUDGET` and `MAINSTREAM` customer consistently have the highest total sales, indicating they are the most valuable segment. In addition, need to keep `PREMIUM` customers as loyal customer and engage them to core customer in future
+
+3 Highest sale by customer segment:
+- OLD FAMILIES - BUDGET
+- YOUNG SINGLE/COUPLES - MAINSTREAM
+- RETIREES - MAINSTREAM
+
+Why 3 customer segment get highest sales
+Average price per customer transaction is higher than another customer it around 7.0 and times buying chip are very high it over 19000 times. This thing make 3 highest sale segment really important to keep them buying chip and convert them to loyal customer by direct them with loyal customer program or engage them buy more chip on single transaction by addition gift, voucher, on future marketing stategy
+
+Almost customer really like chip with pack size is 175 follow by 150 and 134. I think it enough for almost customer segment from youngest to oldest. My opinions is optimizing package size in future with 3 main size is 175, 150, 134 and optional size for special order with special price for each order. It can be helpful because we will focus on 3 size to improve customer experience, package design, product R&D, ...
+
+3 Brand each customer segment favorite is familar. It belong to Kettle, Smith and Doritos but YOUNG SINGLES/COUPLES - Mainstream something different in top 3 it belong to Pringles in top 3. In this case 4 popular chip brand make 80% revenue of chain and another brand dont sell enough well make inventory item and inventory cost is so high. In the future necessery thing we can do right now is contact with brand dont sell well to deal a discount price or advertiment for my customer. If this ways dont help this brand stand out with my customer i think we need remove this brand of my supplier
+
+Customer segment distribute familar from monday to sunday. Some segment want to visit in head of week, another segment raise in middle of week, some segment want to enjoy my chip at the end of week. Every day of week almost crownd so make sure every store of cip chain have enough employees, machines, matirial, iridient,... Encorage all employees in each shiff make an effort for work to give customer good experience every time they visit the store. It seem be same with any month in the year. Take note and prepare any thing good in each month 
+
