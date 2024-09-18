@@ -34,4 +34,4 @@ Some key note for a presentation:
 
 ## My Solution <a class = 'anchor' id = 'solutions'></a>
 
-Download and view my presentation design in Power Point here: 
+Download and view my presentation design in Power Point here: [Task 3_Design Presentation.pptx]
