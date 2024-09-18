@@ -45,4 +45,4 @@ You will also want to derive extra features such as `pack size` and `brand name`
 `PREMIUM_CUSTOMER`: Customer segmentation used to differentiate shoppers by the price point of products they buy and the types of products they buy. It is used to identify whether customers may spend more for quality or brand or whether they will purchase the cheapest options.
 ## Solutions <a class = 'anchor' id = 'solutions'></a>
 
-View my solution in python here: Task 1_solution.ipynb(https://github.com/truonglearncode/Quantium-Data-Analytic-Virtual-Internship-/blob/main/Task%201_Data%20preparation%20and%20customer%20analytics/Task%201_Solution.ipynb)
+View my solution in python here: [Task 1_solution.ipynb](https://github.com/truonglearncode/Quantium-Data-Analytic-Virtual-Internship-/blob/main/Task%201_Data%20preparation%20and%20customer%20analytics/Task%201_Solution.ipynb)
