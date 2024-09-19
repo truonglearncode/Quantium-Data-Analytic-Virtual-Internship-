@@ -11,3 +11,5 @@ I think I have successfully completed this project and earned a certificate. Sho
 Truong Ngo
 
 Thanks
+
+![Certificates](https://github.com/truonglearncode/Quantium-Data-Analytic-Virtual-Internship-/blob/main/Certificates.png)
